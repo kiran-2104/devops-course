@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 123
+=======
+hel
+>>>>>>> parent of 230e15f... like to have 4 txt files in git
